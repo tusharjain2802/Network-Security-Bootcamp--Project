@@ -4,7 +4,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 The instructor during the session was Mr. Harsh Akshit (Community Lead at GOOGLE and OWASP). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/watch?v=yZeJTQXvA-I&list=PL7zl8TDRnbuljbDX-DamOSa2h97499sP4"> <img src="https://uploads-ssl.webflow.com/60798d9b0b61160814b3d8c3/60dcc8a102f2fb2f77fd5780_3.png"> </a>
+<a href="https://www.youtube.com/watch?v=yZeJTQXvA-I&list=PL7zl8TDRnbuljbDX-DamOSa2h97499sP4"> <img src="poster.jpg"> </a>
 <br>I got to have hands on experience on:
 <li>INTRO TO PROGRAMMING IN PYTHON
 <li>INTRODUCTION TO Selenium for Web automation
